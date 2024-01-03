@@ -1,5 +1,6 @@
 # Service-Request-Ticket-DevOps-Course  
 **A practical exercise in troubleshooting**  
+
 Subject: Service Request Ticket
 
 Dear DevOps Engineer,
