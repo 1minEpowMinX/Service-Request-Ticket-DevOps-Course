@@ -42,5 +42,5 @@ We appreciate your prompt attention to this matter and we look forward to workin
 
 Best regards!  
 
-# Problem solving  
+# Problem solving(May be supplemented in the future)  
 The "ContainerCreating" issue was the need to update and implement app-configmap.yaml, secret.yaml, and update api-deploy.yaml and api-svc.yaml to implement Canary method testing. All of these steps were necessary to migrate to the new version of the microservice.
