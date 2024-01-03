@@ -40,4 +40,7 @@ Second request. The new version of the api microservice should be deployed at th
 
 We appreciate your prompt attention to this matter and we look forward to working with you to resolve this request. Please let us know if you have any questions or require further assistance.
 
-Best regards!
+Best regards!  
+
+# Problem solving  
+The "ContainerCreating" issue was the need to update and implement app-configmap.yaml, secret.yaml, and update api-deploy.yaml and api-svc.yaml to implement Canary method testing. All of these steps were necessary to migrate to the new version of the microservice.
